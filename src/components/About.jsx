@@ -17,7 +17,7 @@ const TimelinePage = () => {
   let schoolIconStyles = { background: "#f9c74f" };
 
   return (
-    <div className="bg-gradient-to-b from-gray-800 to-black p-4 text-white relative -z-10">
+    <div name="about" className="bg-gradient-to-b from-gray-800 to-black p-4 text-white relative -z-10">
       <div className="flex items-center justify-center md:px-5 md:py-5 md:mb-5 z-10">
         <FaGraduationCap className="mr-3 text-2xl md:text-3xl" />
         <h1 className="mr-3 text-2xl md:text-3xl">Education &</h1>
