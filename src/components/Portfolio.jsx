@@ -16,7 +16,7 @@ const Portfolio = () => {
       id: 2,
       src: react,
       demo: "https://ubereats-react-tailwind.netlify.app/",
-      code: "https://github.com/jatlashivakumar/Reactjs-tailwind-food-web"
+      code: "https://github.com/jatlashivakumar/Uber-eats-Updated"
     },
     {
       id: 3,
