@@ -1,6 +1,7 @@
 import React from "react";
 import react from "../assets/portfolio/react.jpg";
 import weather from "../assets/portfolio/weather.png";
+import mern from '../assets/portfolio/mern.jpg'
 
 const Portfolio = () => {
   
@@ -16,7 +17,13 @@ const Portfolio = () => {
       src: react,
       demo: "https://665acf99ea270e9eb6c1487d--gorgeous-lollipop-aed4fe.netlify.app/",
       code: "https://github.com/jatlashivakumar/Reactjs-tailwind-food-web"
-    }
+    },
+    {
+      id: 3,
+      src: mern,
+      demo: "https://tourmaline-dango-feface.netlify.app/",
+      code: "https://github.com/jatlashivakumar/mern_Ecommerce"
+    },
   ];
 
   return (
